@@ -1,1 +1,2 @@
-# ConvertToWebp
+# Convert images to .webp
+
